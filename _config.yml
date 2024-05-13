@@ -1,7 +1,6 @@
 source:      .
 destination: ./_site
 includes:    ./_includes
-baseurl: /bigreddog1114
 
 collections:
   projects:
